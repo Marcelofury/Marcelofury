@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marcelofury
+- 👋 Hi, I’m @butera Marcel
 - 👀 I’m interested in web development, fullstack development
 - 🌱 I’m currently learning Javascript and C
 - 💞️ I’m looking to collaborate on NASA and SpaceX projects
