@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @butera Marcel
 - 👀 I’m interested in web development, fullstack development
-- 🌱 I’m currently learning Javascript and C
+- 🌱 I’m currently learning Javascript and Python and doing C projects
 - 💞️ I’m looking forward to collaborate on NASA and SpaceX projects
 - 📫 How to reach me : marcelofury13579@gmail.com
 
