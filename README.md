@@ -1,7 +1,19 @@
+<!-- Futuristic Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=🚀+Butera+Marcel;💻+Software+Engineer+%7C+Data+Analyst+%7C+AI+Enthusiast;🌌+Dreaming+of+Space+Tech+%26+NASA+Projects;⚡+Building+the+Future+One+Line+at+a+Time" alt="Futuristic Banner" />
+</p>
+
+---
+
+
+
 # 👋 Hi, I’m **Butera Marcel**  
 
 💻 **Aspiring Software Engineer | Data Analyst | AI Enthusiast | Future Space Technologist**  
 
+---
+
+<div align="center">
 
 <table>
   <tr>
@@ -134,6 +146,9 @@
   </tr>
 </table>
 
+</div>
+
+---
 
 ## 📫 How to Reach Me  
 - 📧 **marcelofury13579@gmail.com**  
@@ -150,17 +165,18 @@ I dream of becoming a **space engineer** and building solutions that contribute 
 
 ## 📊 GitHub Stats  
 
-![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelofury&show_icons=true&theme=radical)  
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelofury&layout=compact&theme=radical)  
+| ![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelofury&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelofury&layout=compact&theme=radical) |
+|---|---|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=Marcelofury&theme=radical&border_radius=10) | ![Profile views](https://komarev.com/ghpvc/?username=Marcelofury&label=Profile%20Views&color=0e75b6&style=flat) |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Marcelofury&theme=radical&border_radius=10)  
+</div>
 
 ---
 
 ## 🏆 Badges & Profile Views  
 
-![Profile views](https://komarev.com/ghpvc/?username=Marcelofury&label=Profile%20Views&color=0e75b6&style=flat)  
 ![GitHub followers](https://img.shields.io/github/followers/Marcelofury?label=Followers&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/Marcelofury?affiliations=OWNER%2CCOLLABORATOR&style=social)  
 
