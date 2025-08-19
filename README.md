@@ -18,7 +18,7 @@ I enjoy turning ideas into usable software. My current focus is modern web apps,
 
 ---
 
-## 🔷 At a glance — skills (2×2)
+## 🔷 skills 
 
 | **👀 Programming Languages** | **🧪 Data Science & Analytics** |
 |---|---|
@@ -30,7 +30,7 @@ I enjoy turning ideas into usable software. My current focus is modern web apps,
 
 ---
 
-## 📬 Connect & collaborate (2×2)
+## 📬 Connect & collaborate 
 
 | **🤝 Looking to Collaborate** | **📫 How to Reach Me** |
 |---|---|
