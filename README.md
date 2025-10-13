@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/butera-marcel-68368a32b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Butera%20Marcel-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Marcelofury"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Marcelofury-181717?logo=github&logoColor=white"></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Marcelofury&label=Profile%20Views&color=0e75b6&style=flat">
-  <a href="https://portfolio-buteramarcels-projects.vercel.app/"></a>
+  <a href="https://portfolio-buteramarcels-projects.vercel.app/"> <img alt =Personal Website src="https://cdn.prod.website-files.com/62c5836076839ad95e36215d/64fb2b64316862df3d2e099a_rcQYosTUaQ6hiJSAk7JphBXJCcZpPSAnq6u8U_3pnj0UVcHM5niGdGNBZ625bnZmRDTg4UQFOjd8tuczIfNSZ7JQeRBtnY4NHvGyGjRBe_DVE4QiDsVy9vcllRT7B1Ut7wx9CBDr945F26Um1hF4xM4.png"></a>
 </p>
 
 ---
