@@ -6,98 +6,94 @@
   <a href="https://www.linkedin.com/in/butera-marcel-68368a32b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Butera%20Marcel-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Marcelofury"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Marcelofury-181717?logo=github&logoColor=white"></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Marcelofury&label=Profile%20Views&color=0e75b6&style=flat">
-  <a href="https://portfolio-buteramarcels-projects.vercel.app/"> <img alt = Personal Website a>
+  <a href="https://portfolio-buteramarcels-projects.vercel.app/"> <img alt = PersonalWebsite a>
 </p>
 
-# 👋 Hi, I'm <Your Name> 🇮🇳
+ 
 
-💻 Software Developer  | 🌱 Continuous Learner
+# Hi, I'm BUTERA Marcel
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Building+cool+things+with+code;Learning+every+day;Open+to+collaboration&center=true&width=800)
+Software Engineering Student | AI & Data Enthusiast | Tech for Impact
 
----
-
-## 🧠 About Me
-
-I’m a passionate **software developer** who loves turning ideas into real-world solutions.  
-I focus on **clean code**, **problem-solving**, and **continuous improvement**.
-
-- 🔭 Working on real-world projects
-- 🌱 Learning advanced backend & AI concepts
-- 🤝 Open to internships, collaborations, and open-source
-- 🎯 Goal: Build impactful tech for millions
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;AI+%26+Data+Enthusiast;Learning+Every+Day;Open+to+Collaboration&center=true&width=900)
 
 ---
 
-## ⚙️ Tech Stack
+## About Me
 
-### 🧑‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+I’m a Software Engineering student passionate about AI, data, and system-level programming.  
+I enjoy building practical solutions, learning deeply, and contributing to meaningful projects.
+
+- Software Engineering Student  
+- Interested in AI, Data Analytics, Embedded Systems & Backend  
+- Currently learning Python, JavaScript, C, Pandas & Machine Learning  
+- Career goal: Work in global tech & space-related organizations  
+- Open to internships, hackathons & collaborations  
+
+---
+
+## Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 
-### 🧩 Frameworks & Tools
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
 ---
 
-## 📊 GitHub Visuals
+## GitHub Visualizations
 
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-### 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-### 🧠 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcelofury&show_icons=true&theme=tokyonight)
 
----
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelofury&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1)
 
----
 
-## 🌍 Contribution Map
+## Activity Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelofury&theme=tokyo-night)
 
 ---
 
-## 📌 Currently Focused On
+## Current Focus
 
-- 📚 Data Structures & Algorithms
-- 🌐 Backend & Cloud Systems
-- 🤖 AI & Automation
-- 🔓 Open Source Contribution
+- Data Structures & Algorithms  
+- AI & Machine Learning  
+- Data Analytics (Pandas, NumPy, Scikit-learn)  
+- Systems & Embedded Linux  
 
 ---
 
-## ✨ Developer Quote
+## Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)
-![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x)
-![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)
-
----
-
-## 👀 Profile Views
-
-![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://ug.linkedin.com/in/butera-marcel-68368a32b)
+[![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:marcelofury13579@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome)](https://portfolio-buteramarcels-projects.vercel.app/)
 
 ---
 
-⭐ *If you like my work, consider following — let’s grow together.*
+## Profile Views
 
+![Profile Views](https://komarev.com/ghpvc/?username=Marcelofury&style=for-the-badge)
+
+---
+
+Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
