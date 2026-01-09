@@ -51,16 +51,6 @@ I enjoy building practical solutions, learning deeply, and contributing to meani
 ## GitHub Visualizations
 
 
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcelofury&show_icons=true&theme=tokyonight)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelofury&layout=compact&theme=tokyonight)
-
-
-
-
 ## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelofury&theme=tokyo-night)
