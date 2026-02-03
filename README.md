@@ -13,7 +13,7 @@
 
 # Hi, I'm BUTERA Marcel
 
-Software Engineering Student | AI & Data Enthusiast | Tech for Impact
+Software Engineering Student | Full Stack Javascript Developer | Tech for Impact
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Future+Software+Engineer;AI+%26+Data+Enthusiast;Learning+Every+Day;Open+to+Collaboration&center=true&width=900)
 
@@ -26,7 +26,7 @@ I enjoy building practical solutions, learning deeply, and contributing to meani
 
 - Software Engineering Student  
 - Interested in AI, Data Analytics, Embedded Systems & Backend  
-- Currently learning Python, JavaScript, C, Pandas & Machine Learning  
+- Currently learning : **Software Engineering with Javascript**  
 - Career goal: Work in global tech & space-related organizations  
 - Open to internships, hackathons & collaborations  
 
@@ -59,10 +59,10 @@ I enjoy building practical solutions, learning deeply, and contributing to meani
 
 ## Current Focus
 
+- Software Engineering with Javascript
 - Data Structures & Algorithms  
-- AI & Machine Learning  
-- Data Analytics (Pandas, NumPy, Scikit-learn)  
-- Systems & Embedded Linux  
+- Software Design Modelling
+- Cryptography
 
 ---
 
