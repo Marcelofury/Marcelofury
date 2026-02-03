@@ -15,7 +15,7 @@
 
 Software Engineering Student | Full Stack Javascript Developer | Tech for Impact
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+%26+Stack+Javascript+Developer;Learning+Every+Day;Learning+for+Impact;Open+to+Collaboration&center=true&width=900)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Javascript+Developer;Learning+Every+Day;Tech+for+Impact;Open+to+Collaboration&center=true&width=900)
 
 ---
 
