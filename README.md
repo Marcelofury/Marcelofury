@@ -22,13 +22,13 @@ Software Engineering Student | Full Stack Javascript Developer | Tech for Impact
 
 ## About Me
 
-I’m a Software Engineering student passionate about AI, data, and system-level programming.  
+I’m a Software Engineering student passionate Fullstack Web Development (MEVN STACK), Backend development in Node/Express js and JAVA.  
 I enjoy building practical solutions, learning deeply, and contributing to meaningful projects.
 
 - Software Engineering Student  
-- Interested in AI, Data Analytics, Embedded Systems & Backend  
-- Currently learning : **Software Engineering with Javascript**  
-- Career goal: Work in global tech & space-related organizations  
+- Interested in FullStack & Backend  
+- Currently learning : **Java**
+- Career goal: Work in global tech & space-related organizations 
 - Open to internships, hackathons & collaborations  
 
 ---
@@ -44,8 +44,16 @@ I enjoy building practical solutions, learning deeply, and contributing to meani
 ### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
 
@@ -60,10 +68,9 @@ I enjoy building practical solutions, learning deeply, and contributing to meani
 
 ## Current Focus
 
-- Software Engineering with Javascript
+- Software Engineering with Javascript and Java
 - Data Structures & Algorithms  
-- Software Design Modelling
-- Cryptography
+ 
 
 ---
 
@@ -79,11 +86,13 @@ I enjoy building practical solutions, learning deeply, and contributing to meani
 [![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:marcelofury13579@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome)](https://portfolio-buteramarcels-projects.vercel.app/)
 
+
 ---
 
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Marcelofury&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Marcelofury)
 
 ---
 
