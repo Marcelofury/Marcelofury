@@ -92,7 +92,7 @@ I enjoy building practical solutions, learning deeply, and contributing to meani
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Marcelofury&style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=Marcelofury)
+
 
 ---
 
