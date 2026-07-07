@@ -22,7 +22,7 @@ Software Engineering Student | Full Stack Javascript Developer | Tech for Impact
 
 ## About Me
 
-I’m a Software Engineering student passionate Fullstack Web Development (MEVN STACK), Backend development in Node/Express js and JAVA.  
+I’m a Software Engineering student and a Fullstack Web Developer (MEVN STACK), Backend developer in Node/Express js and JAVA.  
 I enjoy building practical solutions, learning deeply, and contributing to meaningful projects.
 
 - Software Engineering Student  
