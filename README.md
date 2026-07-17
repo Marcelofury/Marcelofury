@@ -14,22 +14,23 @@
 
 # Hi, I'm BUTERA Marcel
 
-Software Engineering Student | Full Stack Javascript Developer | Tech for Impact
+Junior Software Tester|QA Engineer|Software Engineering Student | Full Stack Javascript Developer | Tech for Impact
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Javascript+Developer;Learning+Every+Day;Tech+for+Impact;Open+to+Collaboration&center=true&width=900)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Junior+Software+Tester+&+QUALITY+ASSURANCE+(QA)+ENGINEER;Software+Engineer;Full+Stack+Javascript+Developer;Learning+Every+Day;Tech+for+Impact;Open+to+Collaboration&center=true&width=900)
 
 ---
 
 ## About Me
 
-I’m a Software Engineering student and a Fullstack Web Developer (MEVN STACK), Backend developer in Node/Express js and JAVA.  
+- I’m a **Software Engineering** student and a **Fullstack Web Developer (MEVN STACK), Backend developer in Node/Express js and JAVA**.  
 I enjoy building practical solutions, learning deeply, and contributing to meaningful projects.
+- I'm also a **Junior Software Tester** and my main goal is to findout **defects** in system, make test scenarios and testcases, bug reports using tools like **Postman,Bruno , JIRA and SQL queries in the database.**
 
 - Software Engineering Student  
 - Interested in FullStack & Backend  
-- Currently learning : **Java**
+- Currently learning : **Java**, **ISTQB **(International Software Testers Qualification Board ) Certification for Testers
 - Career goal: Work in global tech & space-related organizations 
-- Open to internships, hackathons & collaborations  
+- Open to Jobs,internships, hackathons & collaborations  
 
 ---
 
@@ -69,7 +70,8 @@ I enjoy building practical solutions, learning deeply, and contributing to meani
 ## Current Focus
 
 - Software Engineering with Javascript and Java
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
+- Software Testing certifications
  
 
 ---
