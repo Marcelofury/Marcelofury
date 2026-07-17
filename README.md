@@ -16,7 +16,7 @@
 
 Junior Software Tester|QA Engineer|Software Engineering Student | Full Stack Javascript Developer | Tech for Impact
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Junior+Software+Tester+&+QUALITY+ASSURANCE+(QA)+ENGINEER;Software+Engineer;Full+Stack+Javascript+Developer;Learning+Every+Day;Tech+for+Impact;Open+to+Collaboration&center=true&width=900)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Junior+Software+Tester;QUALITY+ASSURANCE+(QA)+ENGINEER;Software+Engineer;Full+Stack+Javascript+Developer;Learning+Every+Day;Tech+for+Impact;Open+to+Collaboration&center=true&width=900)
 
 ---
 
